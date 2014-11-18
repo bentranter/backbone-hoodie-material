@@ -1,6 +1,6 @@
 {
-  "name": "yearlonghackathon-site",
-  "version": "0.0.1",
+  "name": "hoodie-backbone-material",
+  "version": "0.0.2",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-sass": "^0.8.1",
